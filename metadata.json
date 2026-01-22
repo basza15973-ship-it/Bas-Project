@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PhysCLE: Constructivist Physics Learning Environment",
+  "description": "An interactive web-based learning environment for Mechanical Equilibrium using Constructivist Learning Environment (CLE) principles, featuring AR-simulated tools, model construction, and analytical thinking assessments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
